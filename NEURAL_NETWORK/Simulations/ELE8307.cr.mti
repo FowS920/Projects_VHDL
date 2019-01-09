@@ -1,0 +1,52 @@
+{C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/sub_matrix.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/sub_matrix.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package globals
+-- Compiling entity sub_matrix
+-- Compiling architecture RTL of sub_matrix
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package globals
+-- Compiling entity propagate
+-- Compiling architecture RTL of propagate
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package globals
+-- Loading package ENV
+** Warning: C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_tb.vhd(11): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+
+-- Compiling entity propagate_tb
+-- Compiling architecture testbench of propagate_tb
+** Warning: C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_tb.vhd(224): Wait statement has no sensitivity list or time out clause.
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_calculate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_calculate.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity propagate_calculate
+-- Compiling architecture RTL of propagate_calculate
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/globals.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/globals.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package globals
+
+} {} {}}

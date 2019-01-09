@@ -1,0 +1,176 @@
+{C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_alu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_alu.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Compiling entity rv_alu
+-- Compiling architecture RTL of rv_alu
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_pc.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_pc.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Compiling entity rv_pc
+-- Compiling architecture RTL of rv_pc
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/mini_riscv_pkg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\mini_riscv_pkg.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package mini_riscv_pkg
+-- Compiling package body mini_riscv_pkg
+-- Loading package mini_riscv_pkg
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_alu_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_alu_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Compiling entity rv_alu_tb
+-- Compiling architecture tb of rv_alu_tb
+** Warning: C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_alu_tb.vhd(173): Wait statement has no sensitivity list or time out clause.
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_rf.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_rf.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Compiling entity rv_rf
+-- Compiling architecture RTL of rv_rf
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rv_adder
+-- Compiling architecture RTL of rv_adder
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/imem.vhd} {1 {vcom -work work -2008 -explicit -stats=none {C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\imem.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity imem
+-- Compiling architecture beh of imem
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_shifter_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_shifter_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Compiling entity rv_shifter_tb
+-- Compiling architecture tb of rv_shifter_tb
+** Warning: C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_shifter_tb.vhd(146): Wait statement has no sensitivity list or time out clause.
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/dmem.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\dmem.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dmem
+-- Compiling architecture beh of dmem
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_shifter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_shifter.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rv_shifter
+-- Compiling architecture RTL of rv_shifter
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_rf_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_rf_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Compiling entity rv_rf_tb
+-- Compiling architecture tb of rv_rf_tb
+** Warning: C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_rf_tb.vhd(175): Wait statement has no sensitivity list or time out clause.
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_adder_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_adder_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Compiling entity rv_adder_tb
+-- Compiling architecture tb of rv_adder_tb
+** Warning: C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_adder_tb.vhd(156): Wait statement has no sensitivity list or time out clause.
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_core_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_core_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Loading package ENV
+** Warning: C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_core_tb.vhd(11): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+
+-- Compiling entity rv_core_tb
+-- Compiling architecture testbench of rv_core_tb
+** Warning: C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_core_tb.vhd(101): Wait statement has no sensitivity list or time out clause.
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_hadd_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_hadd_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Compiling entity rv_hadd_tb
+-- Compiling architecture tb of rv_hadd_tb
+** Warning: C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_hadd_tb.vhd(86): Wait statement has no sensitivity list or time out clause.
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_pc_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_pc_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Compiling entity rv_pc_tb
+-- Compiling architecture tb of rv_pc_tb
+** Warning: C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_pc_tb.vhd(141): Wait statement has no sensitivity list or time out clause.
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_hadd.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_hadd.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rv_hadd
+-- Compiling architecture RTL of rv_hadd
+
+} {} {}} {C:/Users/maxho/Desktop/Sigasi Projects/ELE8304/rv_core.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\maxho\Desktop\Sigasi Projects\ELE8304\rv_core.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package mini_riscv_pkg
+-- Compiling entity rv_core
+-- Compiling architecture RTL of rv_core
+
+} {} {}}

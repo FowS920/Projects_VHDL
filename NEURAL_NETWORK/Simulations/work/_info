@@ -1,0 +1,225 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Pglobals
+Z0 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+w1542742378
+Z3 dC:/Users/maxho/Desktop/Sigasi Projects/ELE8307_Simulations
+8C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/globals.vhd
+FC:/Users/maxho/Desktop/Sigasi Projects/ELE8307/globals.vhd
+l0
+L5
+Vhdc`^`=mcdUM1DAZa=7TK3
+!s100 @hQOSYGD88R?`U>h[C5fQ2
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1543807333
+!i10b 1
+Z6 !s108 1543807333.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/globals.vhd|
+!s107 C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/globals.vhd|
+!i113 1
+Z7 o-work work -2002 -explicit -O0
+Z8 tExplicit 1
+Epropagate
+Z9 w1543367531
+Z10 DPx4 work 7 globals 0 22 hdc`^`=mcdUM1DAZa=7TK3
+R0
+R1
+R2
+R3
+Z11 8C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate.vhd
+Z12 FC:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate.vhd
+l0
+L9
+VnU@Vle>RkE]oK=]>:^^3U0
+!s100 1W5WC8eZN@dc_W22Ye3C41
+R4
+32
+R5
+!i10b 1
+R6
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate.vhd|
+Z14 !s107 C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate.vhd|
+!i113 1
+R7
+R8
+Artl
+R10
+R0
+R1
+R2
+DEx4 work 9 propagate 0 22 nU@Vle>RkE]oK=]>:^^3U0
+l174
+L72
+VZk[R7zSlHlkeH^MLoz<IS0
+!s100 `z5:RYeKfH3=1S]zeZ8W30
+R4
+32
+R5
+!i10b 1
+R6
+R13
+R14
+!i113 1
+R7
+R8
+Epropagate_calculate
+Z15 w1542861520
+R0
+R1
+R2
+R3
+Z16 8C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_calculate.vhd
+Z17 FC:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_calculate.vhd
+l0
+L8
+VdiWieXD6lOX6169LeGXAT0
+!s100 6O=:V3oNb=b3BVj]Q<I8@0
+R4
+32
+R5
+!i10b 1
+R6
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_calculate.vhd|
+Z19 !s107 C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_calculate.vhd|
+!i113 1
+R7
+R8
+Artl
+R0
+R1
+R2
+DEx4 work 19 propagate_calculate 0 22 diWieXD6lOX6169LeGXAT0
+l36
+L19
+VzlziF97oB9a9QlX^JM?RT2
+!s100 J?oLH[2o4KD=41XzLlVU<0
+R4
+32
+R5
+!i10b 1
+R6
+R18
+R19
+!i113 1
+R7
+R8
+Epropagate_tb
+Z20 w1543369274
+Z21 DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+R10
+R0
+R1
+R2
+R3
+Z22 8C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_tb.vhd
+Z23 FC:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_tb.vhd
+l0
+L13
+VR0cH<bGE@PBfS^Z2JZ@o_2
+!s100 _9gkWF7mj2hAlN`Y9l7>80
+R4
+32
+R5
+!i10b 1
+R6
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_tb.vhd|
+Z25 !s107 C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/propagate_tb.vhd|
+!i113 1
+R7
+R8
+Atestbench
+R21
+R10
+R0
+R1
+R2
+DEx4 work 12 propagate_tb 0 22 R0cH<bGE@PBfS^Z2JZ@o_2
+l200
+L16
+VEb[R`hX9VdNIjog_Z8zTh1
+!s100 Q5b]lHAgzPXjX5mI;0oOf3
+R4
+32
+R5
+!i10b 1
+R6
+R24
+R25
+!i113 1
+R7
+R8
+Esub_matrix
+Z26 w1543292298
+R10
+R0
+R1
+R2
+R3
+Z27 8C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/sub_matrix.vhd
+Z28 FC:/Users/maxho/Desktop/Sigasi Projects/ELE8307/sub_matrix.vhd
+l0
+L13
+VU^Mg:QW@ibV[RF7ne19EB3
+!s100 KRSlEmk[DXm64I:eI5Eb52
+R4
+32
+R5
+!i10b 1
+R6
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/sub_matrix.vhd|
+Z30 !s107 C:/Users/maxho/Desktop/Sigasi Projects/ELE8307/sub_matrix.vhd|
+!i113 1
+R7
+R8
+Artl
+R10
+R0
+R1
+R2
+Z31 DEx4 work 10 sub_matrix 0 22 U^Mg:QW@ibV[RF7ne19EB3
+l83
+L51
+Z32 V8Go3nULmmY1TkRe:F@n8N2
+Z33 !s100 I:EEP`4E3N^[6f3Um9RiY0
+R4
+32
+R5
+!i10b 1
+R6
+R29
+R30
+!i113 1
+R7
+R8
+Acode
+R10
+R0
+R1
+R2
+DEx4 work 10 sub_matrix 0 22 GcHkDgKJdW;jmJgNKXg7E2
+l78
+L51
+V<=hO2BKT=7Bbg<;>z^I212
+!s100 fE=JhGfMRiEbbkFk1bI0C1
+R4
+32
+!s110 1543288730
+!i10b 1
+!s108 1543288730.000000
+R29
+R30
+!i113 1
+R7
+R8
+w1543288629
